@@ -9,5 +9,5 @@ I was always curious about any kind of technology since I was kid. But as the ti
 
 The applications I make right now are not very professional but they are a small documentation of my personal development process. There a quite a lot attempts of using Python for something useful and I also dove a bit into web development to make nice GUIs for my applications.
 
-So if you are interestsed in my erly attempts, feel free to visit my GitHub: [Link display text] (https://github.com/TheMrPixelDev)
+So if you are interestsed in my erly attempts, feel free to visit my GitHub [here](https://github.com/TheMrPixelDev).
 
