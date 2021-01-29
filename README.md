@@ -3,7 +3,7 @@
 #### Who I am
 
 Hi, my name is Julian and I am a young student who is on his way to get a computer scientist.
-I was always curious about any kind of technology since I was kid. But as the time continued it got clearer that computers and especially their software gave me the biggest joy when working with them.
+I was always curious about any kind of technology since I was a kid. But as the time continued it got clearer that computers and especially their software gave me the biggest joy when working with them.
 
 #### What I do
 
