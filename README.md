@@ -1,7 +1,9 @@
 # TheMrPixelDev
 ---
 
-##ATTENTION: I've a new site [pxldeveloper.eu](https://pxldeveloper.eu)
+##ATTENTION
+
+I've a new site [pxldeveloper.eu](https://pxldeveloper.eu)
 
 #### Who I am
 
